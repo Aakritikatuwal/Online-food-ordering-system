@@ -7,7 +7,7 @@
 
     <title>About Us</title>
 
-    <style>
+   <style>
 
         body {
             margin: 0;
