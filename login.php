@@ -69,7 +69,7 @@ body {
    
 }
 
-/* Login Box */
+
 #login {
     width: 350px;
     margin: 100px auto;
@@ -80,14 +80,14 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* Labels */
+
 label {
     font-size: 17px;
     font-weight: bold;
     color: rgb(53, 2, 2);
 }
 
-/* Text and Password Input */
+
 input[type="text"],
 input[type="password"] {
     width: 100%;
@@ -98,7 +98,7 @@ input[type="password"] {
     box-sizing: border-box;
 }
 
-/* Login Button */
+
 input[type="submit"] {
     width: 100%;
     padding: 12px;
@@ -110,7 +110,7 @@ input[type="submit"] {
     cursor: pointer;
 }
 
-/* Hover Effect */
+
 input[type="submit"]:hover {
     background: #b71c1c;
 }
