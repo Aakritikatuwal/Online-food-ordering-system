@@ -185,6 +185,7 @@ a{
             <button><a href="contactus.php">Contact Us</a></button>
 
 </div>
+<div id="footer"> <p>@copyright </p></div>
 
 </body>
 
