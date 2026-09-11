@@ -192,14 +192,12 @@ document.getElementById("registerForm").addEventListener("submit", function(even
         event.preventDefault();
         return;
     }
-
     // Address validation
     if (address === "") {
         alert("Please enter your address.");
         event.preventDefault();
         return;
     }
-
     alert("Registration successful!");
 });
 </script>
