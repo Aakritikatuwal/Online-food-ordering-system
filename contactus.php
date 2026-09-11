@@ -55,7 +55,6 @@ if(isset($_POST['submit'])){
             border-radius: 8px;
         }
 
-        /* Contact Box */
         .contact-container {
             width: 500px;
             margin: 50px auto;
@@ -86,7 +85,7 @@ if(isset($_POST['submit'])){
             border-bottom: 1px solid #ccc;
         }
 
-        /* Form */
+       
         input,
         textarea {
             width: 100%;
